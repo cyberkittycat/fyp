@@ -23,8 +23,8 @@ The entire project is written in Python, where Python version 3.8.5 is used. Tes
 ### Starting the Application/ Software
 #### How to use the application
 1. Download repository from GitLab using command `git clone`.
-	- Git clone with https: `git clone https://git-teaching.cs.bham.ac.uk/mod-ug-proj-2021/ycn992`
-	- Git clone with SSH: `git clone git@git-teaching.cs.bham.ac.uk:mod-ug-proj-2021/ycn992.git`, for information regarding how to add SSH keys, please read [this page](https://git-teaching.cs.bham.ac.uk/help/ssh/index.md). 
+	- Git clone with https: `git clone https://github.com/cyberkittycat/fyp`
+	- Git clone with SSH: `git clone git@github.com:cyberkittycat/fyp.git`, for information regarding how to add SSH keys, please read [this page](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
 2. Start a terminal window for Linux/ macOS systems, or start a command prompt window for Windows system.
 3. Change directory to the file that contains the code.
 `cd your_path_to_project/src/main/code`
